@@ -1,5 +1,4 @@
 !#user/bin/python
-
 import random
 import sys
 import time
